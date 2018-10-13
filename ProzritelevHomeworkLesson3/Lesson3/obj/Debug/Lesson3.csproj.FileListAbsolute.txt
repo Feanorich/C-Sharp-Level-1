@@ -1,0 +1,7 @@
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №3. Домашнее задание\ProzritelevHomeworkLesson3\Lesson3\obj\Debug\Lesson3.csprojAssemblyReference.cache
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №3. Домашнее задание\ProzritelevHomeworkLesson3\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №3. Домашнее задание\ProzritelevHomeworkLesson3\Lesson3\bin\Debug\Lesson3.exe.config
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №3. Домашнее задание\ProzritelevHomeworkLesson3\Lesson3\bin\Debug\Lesson3.exe
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №3. Домашнее задание\ProzritelevHomeworkLesson3\Lesson3\bin\Debug\Lesson3.pdb
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №3. Домашнее задание\ProzritelevHomeworkLesson3\Lesson3\obj\Debug\Lesson3.exe
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №3. Домашнее задание\ProzritelevHomeworkLesson3\Lesson3\obj\Debug\Lesson3.pdb
