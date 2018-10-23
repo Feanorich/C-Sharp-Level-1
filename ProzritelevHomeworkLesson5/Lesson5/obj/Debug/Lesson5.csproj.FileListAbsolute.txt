@@ -1,0 +1,9 @@
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\obj\Debug\Lesson5.csprojAssemblyReference.cache
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\bin\Debug\Lesson5.exe.config
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\bin\Debug\Lesson5.exe
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\bin\Debug\Lesson5.pdb
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\obj\Debug\Lesson5.exe
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\obj\Debug\Lesson5.pdb
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\bin\Debug\Task2.txt
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №5. Домашнее задание\ProzritelevHomeworkLesson5\Lesson5\bin\Debug\students.txt
