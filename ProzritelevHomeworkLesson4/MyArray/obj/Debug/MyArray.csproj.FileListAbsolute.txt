@@ -1,0 +1,6 @@
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №4. Домашнее задание\ProzritelevHomeworkLesson4\MyArray\bin\Debug\MyArray.dll
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №4. Домашнее задание\ProzritelevHomeworkLesson4\MyArray\bin\Debug\MyArray.pdb
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №4. Домашнее задание\ProzritelevHomeworkLesson4\MyArray\obj\Debug\MyArray.csprojAssemblyReference.cache
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №4. Домашнее задание\ProzritelevHomeworkLesson4\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №4. Домашнее задание\ProzritelevHomeworkLesson4\MyArray\obj\Debug\MyArray.dll
+D:\users\Feanor\OneDrive\GeekBrains\3. C# Уровень 1\Урок №4. Домашнее задание\ProzritelevHomeworkLesson4\MyArray\obj\Debug\MyArray.pdb
